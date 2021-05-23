@@ -67,7 +67,7 @@ img {
 }
 
 #listing .name { /*项目名*/
-	width: 20%;
+	width: 30%;
 	float: left;
 	cursor: hand;
 	cursor: pointer;
